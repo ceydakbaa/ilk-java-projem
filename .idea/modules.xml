@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ilk Java Projem.iml" filepath="$PROJECT_DIR$/Ilk Java Projem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceyda/ceyda.iml" filepath="$PROJECT_DIR$/ceyda/ceyda.iml" />
     </modules>
   </component>
 </project>
