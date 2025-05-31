@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.ceyda.model/com.ceyda.model.iml" filepath="$PROJECT_DIR$/com.ceyda.model/com.ceyda.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.ceydakaba.package/com.ceydakaba.package.iml" filepath="$PROJECT_DIR$/com.ceydakaba.package/com.ceydakaba.package.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.kaba/com.kaba.iml" filepath="$PROJECT_DIR$/com.kaba/com.kaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kbaa.com/kbaa.com.iml" filepath="$PROJECT_DIR$/kbaa.com/kbaa.com.iml" />
       <module fileurl="file://$PROJECT_DIR$/thisuper/thisuper.iml" filepath="$PROJECT_DIR$/thisuper/thisuper.iml" />
     </modules>
   </component>
